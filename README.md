@@ -6,6 +6,7 @@ Names will be created as, e.g.:
 
  - WAREHOUSE0
  - GASSTATION1
+ - SUPERMARKET2
  - LIGHTHOUSE1
 
 There is no configuration or permission settings for this plugin.
