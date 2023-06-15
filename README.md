@@ -1,6 +1,6 @@
 # Secondary Monument Cameras
 
-Spawns PTZ cameras at Gas Station, Spermket, Mining Outpose and Lighthouse.
+Spawns PTZ cameras at Gas Station, Spermket, Mining Outpost and Lighthouse.
 
 Names will be created as, e.g.:
 
